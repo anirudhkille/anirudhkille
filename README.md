@@ -19,7 +19,6 @@
 <a href="https://github.com/anirudhkille">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anirudhkille&theme=dark&hide_border=true&show_icons=true" />
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhkille&theme=dark&hide_border=true&layout=compact" />
- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anirudhkille&theme=dark&hide_border=true&layot="compact"/> 
 </a>
   
 ### 🌐 Socials:
